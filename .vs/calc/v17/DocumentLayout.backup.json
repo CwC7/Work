@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pjs49\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Work\\Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E375B6AE-8118-48B8-A874-C9EF9B67E111}|calc\\calc.vcxproj|C:\\Users\\pjs49\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Work\\Work\\calc\\dive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E375B6AE-8118-48B8-A874-C9EF9B67E111}|calc\\calc.vcxproj|solutionrelative:calc\\dive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E375B6AE-8118-48B8-A874-C9EF9B67E111}|calc\\calc.vcxproj|C:\\Users\\pjs49\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Work\\Work\\calc\\mod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E375B6AE-8118-48B8-A874-C9EF9B67E111}|calc\\calc.vcxproj|solutionrelative:calc\\mod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mod.cpp",
+              "DocumentMoniker": "C:\\Users\\pjs49\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Work\\Work\\calc\\mod.cpp",
+              "RelativeDocumentMoniker": "calc\\mod.cpp",
+              "ToolTip": "C:\\Users\\pjs49\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Work\\Work\\calc\\mod.cpp",
+              "RelativeToolTip": "calc\\mod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-10T10:12:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dive.cpp",
+              "DocumentMoniker": "C:\\Users\\pjs49\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Work\\Work\\calc\\dive.cpp",
+              "RelativeDocumentMoniker": "calc\\dive.cpp",
+              "ToolTip": "C:\\Users\\pjs49\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Work\\Work\\calc\\dive.cpp",
+              "RelativeToolTip": "calc\\dive.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-10T10:12:23.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
